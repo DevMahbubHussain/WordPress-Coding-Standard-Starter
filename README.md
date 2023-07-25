@@ -1,4 +1,4 @@
-# WordPress Code Examples Starter
+# WordPress Project  Starter Package
 
 This template repository is pre-configured to provide all of the tools to format code to match the WordPress coding standards.
 
@@ -8,6 +8,8 @@ This template repository is pre-configured to provide all of the tools to format
 1. Linting and formatting tools for PHP, JavaScript, CSS and package.json files.
 2. A GitHub action to that runs linting on PRs and merged to trunk.
 3. Build process provided by `@wordpress/scripts`
+4. Tailwind Css 
+5. Sass 
 
 ## How do I use it?
 1. Start by clicking the `Use this template` to use this as a starting point for your project.
