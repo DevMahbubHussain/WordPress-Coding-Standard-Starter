@@ -21,4 +21,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-echo '<h1 class="text-3xl text-red-600">Hello World!</h1>';
+echo '<h1 class="text-3xl text-red-500">Hello World!</h1>';
